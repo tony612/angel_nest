@@ -1,7 +1,8 @@
 source 'http://rubygems.org'
 
 gem 'rails', '~> 3.2.2'
-gem 'mysql2'
+#gem 'mysql2'
+gem 'sqlite3'
 
 # core function gems
 gem 'devise',              '~> 2.0.0'
